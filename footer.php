@@ -3,7 +3,7 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-sm-6 col-md-6 col-lg-3">
-					<div><img src="images/footer-logo.png"></div>
+					<div><img src="images/go.png" style="width: 100%"></div>
 					<p class="dolor_text">dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et sdolor sit amet,</p>
 				</div>
 				<div class="col-sm-6 col-md-6 col-lg-3">

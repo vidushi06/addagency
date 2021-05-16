@@ -46,11 +46,11 @@
                         </button>
                     <div class="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div class="navbar-nav">
-                           <a class="nav-item nav-link" href="index.html">Home</a>
-                           <a class="nav-item nav-link" href="browse ads.html">Browse ads</a>
-                           <a class="nav-item nav-link" href="about.html">About</a>
-                           <a class="nav-item nav-link" href="clients.html">Clients</a>
-                           <a class="nav-item nav-link" href="contact.html">Contact</a>
+                           <a class="nav-item nav-link" href="index.php">Home</a>
+                           <a class="nav-item nav-link" href="browse ads.php">Browse ads</a>
+                           <a class="nav-item nav-link" href="about.php">About</a>
+                           <a class="nav-item nav-link" href="clients.php">Clients</a>
+                           <a class="nav-item nav-link" href="contact.php">Contact</a>
                         </div>
                     </div>
                     </nav>

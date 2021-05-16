@@ -58,7 +58,7 @@
 	<!-- section PROMOTED start -->
 	<div class=" layout_padding promoted_sectipon">
 		<div class="container">
-			<h1 class="promoted_text">PROMOTED <span style="border-bottom: 5px solid #4bc714;">ADS</span></h1>
+			<h1 class="promoted_text">PROMOTED <span style="border-bottom: 5px solid #f75959">ADS</span></h1>
 			<div class="images_main">
 				<div class="row">
 					<div class="col-sm-6 col-md-6 col-lg-3">
@@ -129,7 +129,7 @@
 	<!-- section POPULAR STORES start -->
     <div class="layout_padding popular_section">
     	<div class="container">
-    		<h1 class="popular_taital">POPULAR <span style="border-bottom: 5px solid #4bc714;">STORES</span></h1>
+    		<h1 class="popular_taital">POPULAR <span style="border-bottom: 5px solid #f75959;">STORES</span></h1>
     		<div id="main_slider" class="carousel slide" data-ride="carousel">
             <div class="carousel-inner">
             <div class="carousel-item active">
@@ -196,7 +196,7 @@
     <div class="carousel-item active">
       <div class="row">
     			<div class="col-sm-12">
-    				<h1 class="promoted_text">CLIENTS <span style="border-bottom: 5px solid #4bc714;">REVIEW</span></h1>
+    				<h1 class="promoted_text">CLIENTS <span style="border-bottom: 5px solid #f75959;">REVIEW</span></h1>
     				<div class="client_img"><img src="images/client-img.png"></div>
     				<h1 class="client_text">JHON DUE</h1>
     				<p class="adiser_text">(adiser)</p>

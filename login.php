@@ -86,7 +86,7 @@ if(isset($_POST['submit'])){
 
 	if($final==1){
         $_SESSION['a'] = $a;
-		header('Location:index.php');
+		header('Location:add-ads.php');
 	}
 	else{
 		echo "<script> alert('please check username or password') </script>";

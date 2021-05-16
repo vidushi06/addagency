@@ -512,7 +512,7 @@ nav.main-menu {
 }
 
 .carousel-indicators .active {
-    background-color: #052501;
+    background-color: #f75959;
 }
 .carousel-indicators li {
     position: relative;
@@ -594,7 +594,7 @@ nav.main-menu {
      float: left;
      font-size: 24pt;
      color: #ffffff;
-     border-bottom: 4px solid#3e7f21;
+     border-bottom: 4px solid#f75959;
      margin-bottom: 26px;
 }
 
@@ -615,7 +615,7 @@ nav.main-menu {
      float: left;
      font-size: 24pt;
      color: #ffffff;
-     border-bottom: 4px solid#3e7f21;
+     border-bottom: 4px solid#f75959;
      margin-bottom: 26px;
 }
 
@@ -644,7 +644,7 @@ nav.main-menu {
 .submit_text{
      width: 60%;
      float: left;
-     background-color: #3e7f21;
+     background-color: #f75959;
      color: #fbf5f5;
      border-radius: 5px;
      padding: 8px 15px;
@@ -663,7 +663,7 @@ nav.main-menu {
 .copyright{
      width: 100%;
      float: left;
-     background-color: #388417;
+     background: -webkit-linear-gradient(315deg, #f75959 0%, #f35587 100%);
 }
 
 .copyright_text{
